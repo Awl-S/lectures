@@ -71,6 +71,11 @@ Formatter
 
 Runner -.-> Formatter
 ```
+* Fixture - Настройки тестирования
+* Arrange - Подготовка
+* Assert - Сверка
+* Act - Действие
+* Formatter - Форматирует результаты и выводит на экран
 
 > [**xUnit**](https://ru.ruwiki.ru/wiki/XUnit) — типовая архитектура фреймворка для тестирования
 
